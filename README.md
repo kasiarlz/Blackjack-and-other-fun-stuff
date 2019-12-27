@@ -7,7 +7,7 @@ There are 5 different tasks :
 2. Cat Generator
 3. Rock-paper-scissors
 4. Changing color of all buttons
-5. BlackJack game 
+5. Smart BlackJack game 
 6. Generate 10 different people with their names with AJAX.
 
 Enjoy !

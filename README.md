@@ -1,5 +1,5 @@
 # Blackjack-and-other-fun-stuff
-My BlackJack game, rock-paper-scissors and few other fun stuff with javascript, HTML,CSS
+My BlackJack game, rock-paper-scissors and few other fun stuff with javascript, HTML5,CSS
 
 
 There are 5 different tasks :

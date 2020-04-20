@@ -10,4 +10,4 @@ There are 5 different tasks :
 5. Smart BlackJack game 
 6. Generate 10 different people with their names with AJAX.
 
-Enjoy !!!
+Enjoy !!!!
